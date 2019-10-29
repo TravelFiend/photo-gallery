@@ -91,7 +91,8 @@ hr {
 img {
     border: 1px solid #1C0F13;
     border-radius: 6px;
-    width: 90%;
+    /* width: 90%; */
+    max-height: 60%;
 }
 
 h2 {
