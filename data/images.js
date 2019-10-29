@@ -91,14 +91,14 @@ const images = [
         horns: 2
     },
     {
-        url: 'https://cdn.modernfarmer.com/wp-content/uploads/2014/08/28476658_9c97f35096_o.jpg',
+        url: 'https://animalsafari.com/Georgia/wp-content/uploads/2014/01/Wild-Animal-Safari-Missouri-Mouflon-Sheep-Blog.jpg',
         title: 'Mouflon',
         description: 'Those horns though',
         keyword: 'mouflon',
         horns: 2
     },
     {
-        url: 'https://cdn.modernfarmer.com/wp-content/uploads/2014/08/addax.jpg',
+        url: 'https://zooinstitutes.com/img/animals/14/141543263114_1.jpg.pagespeed.ce.gGktPgUj56.jpg',
         title: 'Addax',
         description: 'This guy is basically extinct but survives well in captivity, so they\'re frequently found in zoos',
         keyword: 'addax',
@@ -112,7 +112,7 @@ const images = [
         horns: 2
     },
     {
-        url: 'https://cdn.modernfarmer.com/wp-content/uploads/2014/08/chameleon.jpg',
+        url: 'http://cdn.modernfarmer.com/wp-content/uploads/2014/08/chameleon.jpg',
         title: 'Happy Jackson\'s Chameleon',
         description: 'These are really common in Hawaii',
         keyword: 'chameleon',

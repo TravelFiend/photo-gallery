@@ -60,7 +60,15 @@ i {
 }
 
 .choice {
-    font-size: 30px;
+    font-size: 15px;
+    width: 20vw;
+    margin-left: 15px;
+}
+
+label {
+    display: flex;
+    font-size: 20px;
+    align-items: center;
 }
 
 footer {
@@ -98,4 +106,5 @@ img {
 h2 {
     text-transform: uppercase;
     text-decoration: underline;
+    font-size: 22px;
 }

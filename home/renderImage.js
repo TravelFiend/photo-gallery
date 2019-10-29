@@ -10,3 +10,14 @@ const renderImage = (pic) => {
 };
 
 export default renderImage;
+
+export const renderHeader = () => {
+    const headerHtml = `
+        <header>
+            <i class="far fa-grimace"></i>
+            <h1>Image Gallery</h1>
+        </header>
+    `;
+    return headerHtml;
+};
+
