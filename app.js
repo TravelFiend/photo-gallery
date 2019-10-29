@@ -19,5 +19,4 @@ images.forEach(image => {
     myOptions.value = image.keyword;
     myOptions.textContent = image.keyword;
     myDropdown.appendChild(myOptions);
-    console.log(myOptions);
 });
