@@ -69,6 +69,7 @@ label {
     display: flex;
     font-size: 20px;
     align-items: center;
+    margin: 0 30px;
 }
 
 footer {
@@ -107,4 +108,17 @@ h2 {
     text-transform: uppercase;
     text-decoration: underline;
     font-size: 22px;
+}
+
+p {
+    font-size: 25px;
+    margin-right: 20px;
+}
+
+.radButts {
+    display: flex;
+}
+
+input {
+    margin: 0 10px;
 }
